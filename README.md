@@ -1,7 +1,7 @@
 # DRINKPOS
 
 A POS interface for ordering drinks
-
+https://carolebot.github.io/DRINKPOS/
 ## Features
 - Users may select 1 drink at a time from the right side menu
 - Users may select different amount of `ice` / `suger` as they like
